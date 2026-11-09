@@ -1,1 +1,1 @@
-stroka
+stroka1
